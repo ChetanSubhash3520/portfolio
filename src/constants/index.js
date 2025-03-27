@@ -64,5 +64,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Seattle, Washington",
   phoneNo: "+1 980-371-9678 ",
-  email: "chetan@techjobmails.com",
+  email: "chetansubhashc@gmail.com",
 };
